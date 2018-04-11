@@ -1,4 +1,4 @@
 var playlist = {
-  Bayside : 'Demons';
-  Yunomi : 'Neo'
+  Bayside : 'Demons',
+  Reol : 'Drop Pop Candy'
 };
